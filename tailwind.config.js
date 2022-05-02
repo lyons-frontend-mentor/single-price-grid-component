@@ -7,6 +7,9 @@ module.exports = {
         yellow: "#c0df33",
         lightgray: "#e6eff5",
         bluegray: "#9aa7be"
+      },
+      fontFamily: {
+        'karla': ['Karla', 'sans-serif']
       }
     },
   },
